@@ -5,4 +5,4 @@
 >무차별 대입 공부(brute force)  
 >큐 공부(queue)  
 >스택 공부(stack)  
->동적 계획법 공부(dynamic programming)  
+>동적 계획법 공부(dynamic programming) - LIS(longest increase subsequence)
